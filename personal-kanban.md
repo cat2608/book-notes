@@ -36,8 +36,7 @@ Lean is both a philosophy and a discipline which, at its core, increases access 
 
 _**Kaizen**_ is a state of continuous improvement where people naturally look for ways to improve poorly performing practices.
 
-When we visualise our work, we adopt a kaizen mindset; we are weened
-from the comfort of complacency and actively seek out opportunities for improvement.
+When we visualise our work, we adopt a kaizen mindset; we are warned from the comfort of complacency and actively seek out opportunities for improvement.
 
 ### Why it works
 
